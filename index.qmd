@@ -8,7 +8,7 @@ about:
 
 :::{#me}
 
-## **General**  
+## **Descrição**  
 
 Sou economista especializado em análise quantitativa, com vasta experiência em estatística, econometria e machine learning. Minha paixão é transformar dados complexos em insights práticos e soluções inovadoras para problemas econômicos e financeiros.  
 
@@ -36,6 +36,12 @@ Este site foi criado para compartilhar conhecimentos, apresentar modelos econom�
   - Criação de ratings internos para complementar os ratings de agências externas.  
 
 ---
+
+## **Curriculum Vitae**  
+[📄 Clique aqui para acessar meu CV](references/CV_2024___Eng.pdf)
+
+:::
+
 
 :::
 

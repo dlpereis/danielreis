@@ -2,7 +2,9 @@
 title: "Projects"
 ---
 
-## Project 1
+## Factor Models
+
+[📄 Factor Models](projetos/factor_models/pca_fa.html)
 
 ## Project 2
 

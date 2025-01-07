@@ -3,16 +3,39 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/foto_minha.jpeg
 ---
 
 :::{#me}
 
-## Goals
+## **General**  
 
-## Education
+Sou economista especializado em análise quantitativa, com vasta experiência em estatística, econometria e machine learning. Minha paixão é transformar dados complexos em insights práticos e soluções inovadoras para problemas econômicos e financeiros.  
 
-## Experience
+Este site foi criado para compartilhar conhecimentos, apresentar modelos econométricos e interativos, e inspirar profissionais e estudantes interessados em análise quantitativa e economia aplicada.  
+
+---
+
+## **Objetivos**  
+- Demonstrar como a análise quantitativa pode ser aplicada para resolver problemas reais em finanças, economia e agricultura.  
+- Compartilhar modelos econométricos e soluções interativas utilizando a linguagem R e Shiny Apps.  
+- Expandir minha visibilidade profissional e conectar-me com outros especialistas interessados em técnicas avançadas de modelagem e predição.  
+
+---
+
+## **Educação**  
+- **Mestrado em Economia Aplicada** – Universidade Federal de Juiz de Fora (UFJF)  
+- **Graduação em Economia** – Universidade Federal de Juiz de Fora (UFJF)  
+
+---
+
+## **Experiência**  
+- **Especialista em Pesquisa Quantitativa** – Banco BBM  
+  - Desenvolvimento de modelos de probabilidade de default e capital econômico utilizando estatística e machine learning.  
+  - Análises preditivas de produtividade agrícola e desenvolvimento de scorecards para avaliação de clientes.  
+  - Criação de ratings internos para complementar os ratings de agências externas.  
+
+---
 
 :::
 

@@ -4,8 +4,6 @@ title: "Projects"
 
 ## Factor Models
 
-[📄 Factor Models](projetos/factor_models/pca_fa.html)
-
 ## Project 2
 
 ## Project 3
